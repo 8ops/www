@@ -18,10 +18,3 @@ _book
 *.bak
 .DS_Store
 
-# @jesse
-handbook/
-www/
-
-!_src/handbook/
-!_src/www/
-
