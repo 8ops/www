@@ -27,7 +27,7 @@
 			"showLevel": true
 		},
 		"editlink": {
-			"base": "https://github.com/8ops/www",
+			"base": "https://github.com/8ops/www/tree/master/",
 			"label": "编辑本页"
 		},
 		"image-captions": {
