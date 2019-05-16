@@ -18,3 +18,4 @@ _book
 *.bak
 .DS_Store
 
+*.html
