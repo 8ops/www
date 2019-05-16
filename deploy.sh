@@ -11,7 +11,7 @@ upx switch jesse-8ops-www
 
 upx put index.html index.html
 upx put favicon.ico favicon.ico
-upx sync asset/ asset/
+upx sync --delete asset/ asset/
 
 upx switch jesse-8ops-normal
 }
