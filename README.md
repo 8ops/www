@@ -2,7 +2,7 @@
 
 | 分站        | 地址                                            |
 | ----------- | ----------------------------------------------- |
-| 手册        | <https://handbook.8ops.top/>                    |
+| handbook    | <https://handbook.8ops.top/>                    |
 | jsonviewer  | <https://jsonviewer.8ops.top/>                  |
 | josnviewer+ | <https://jsonviewer.8ops.top/bejson/index.html> |
 

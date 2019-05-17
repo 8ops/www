@@ -1,7 +1,7 @@
 #!/bin/bash
 
 prepare(){
-cat Readme.html | \
+cat README.html | \
   sed -e 's/fonts.googleapis.com\/css/www.8ops.top\/asset\/index.css/g' \
       -e 's/file:\/\/.*github/asset/g' > index.html
 }
