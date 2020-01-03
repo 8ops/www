@@ -15,6 +15,10 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
+
+
+<p align="center"> 爱运维 | <a href="http://beian.miit.gov.cn/" target="_blank" class="url" >沪ICP备18030892号</a> </p>
+
 EOF
 }
 
